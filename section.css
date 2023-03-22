@@ -1,0 +1,41 @@
+body{
+    background-color: brown;
+}
+.section{
+    border-color: aliceblue;
+    border-style: groove;
+    height: 600px;
+    width: 900px;
+    background-color: aqua;
+    
+}
+.Article{
+margin: 2px;
+ border-style: solid;
+ position: relative;
+ display: inline-block;
+ vertical-align: top;
+ padding: 3px;
+ margin: 5px;
+ height: 500px;
+ width: 300px;
+ background-color: aliceblue;
+}
+.information{
+    position: relative;
+    vertical-align: top;
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    border-style: solid;
+    margin: 5px;
+    padding: 3px;
+
+}
+img{
+    height: 50%;
+    width: 50%;
+    position: relative;
+    
+}
+
